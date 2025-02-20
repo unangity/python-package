@@ -1,9 +1,9 @@
 [project]
-name = "python_package"
+name = "test_renovate"
 version = "0.0.1"
 readme = "README.md"
 requires-python = ">=3.8"
-keywords = ["python_package"]
+keywords = ["test_renovate"]
 authors = [{ name = "Author Me", email = "author@example.com" }]
 classifiers = [
     "Operating System :: OS Independent",
